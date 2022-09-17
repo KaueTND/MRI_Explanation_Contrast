@@ -14,7 +14,7 @@ import seaborn as sns
 
 ##### PLEASE UPDATE YOUR BASE_DIR HERE
 base_dir = 'your/directory/'
-base_dir = 'C:/Users/kaueu/Desktop/All/SIPAIM_ValParaiso_Chile/'
+base_dir = 'C:/Users/kaueu/Documents/GitHub/MRI_Explanation_Contrast/'
 chosen_stage_1 = 'HN'
 chosen_stage_2 = 'MCI'
 
