@@ -1,0 +1,22 @@
+---glrlm_RunLengthNonUniformityNormalized
+RLN measures the similarity of run lengths throughout the image, with a lower value indicating more homogeneity among run lengths in the image.
+
+--- glrlm_RunPercentage
+RP measures the coarseness of the texture by taking the ratio of number of runs and number of voxels in the ROI.
+Values are in range 1Np≤RP≤1, with higher values indicating a larger portion of the ROI consists of short runs (indicates a more fine texture)
+
+---glrlm_ShortRunEmphasis
+SRE is a measure of the distribution of short run lengths, with a greater value indicative of shorter run lengths and more fine textural textures.
+
+---glrlm_LongRunEmphasis
+LRE is a measure of the distribution of long run lengths, with a greater value indicative of longer run lengths and more coarse structural textures.
+
+glrlm_RunVariance
+RV is a measure of the variance in runs for the run lengths.
+
+glcm_InverseVariance
+
+
+
+
+	
